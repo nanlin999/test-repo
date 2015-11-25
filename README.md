@@ -26,3 +26,4 @@ The following shows how we may created a list like <enumerate> in Latex.
 Quick cheat sheet on writing a markdown file
 ===========
 * add a url: I learned the how to write a markdown file from the cheatsheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* add an image: ![a test image](https://www.rstudio.com/wp-content/uploads/2014/03/blue-250.png)
